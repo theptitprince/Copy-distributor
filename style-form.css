@@ -1,0 +1,36 @@
+fieldset {
+ padding:0 20px 20px 20px;
+ margin-bottom:10px;
+ border:1px solid #878787;
+ width: 740px;
+ }
+legend {
+ font-weight:bold
+ }
+label {
+ margin-top:10px;
+ display:block;
+ }
+label.inline {
+ display:inline;
+ margin-right:50px;
+ }
+input, select {
+ padding:3px;
+ border-radius:5px;
+ width:200px;
+ font: 1em Verdana, sans-serif;
+ }
+
+ textarea{
+   padding:3px;
+   border-radius:5px;
+   width:600px;
+   font: 1em Verdana, sans-serif;
+ }
+
+input[type=submit] {
+ width:100px;
+ margin-left:5px;
+ cursor:pointer;
+ }

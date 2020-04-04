@@ -1,0 +1,5 @@
+<?php
+$list['test'] = "etienne.delon@supmaritime.fr";
+$list['a'] = "thomas.babonneau@supmaritime.fr;severin.baleste@supmaritime.fr ; martin.beaurepaire@supmaritime.fr ; vincent.bougeard@supmaritime.fr ; augustin.chabot@supmaritime.fr ; paul.coatmeur@supmaritime.fr ; pol-eliot.coeffe@supmaritime.fr ; alexandre.crisa@supmaritime.fr ; hadrien.de-roux@supmaritime.fr ; etienne.delon@supmaritime.fr ; jean-baptiste.desir@supmaritime.fr ; donovan.dessoudier@supmaritime.fr ; timothee.destanque@supmaritime.fr ; nicolas.dufour@supmaritime.fr ; paul-francois.ettori@supmaritime.fr ; theophile.gasch@supmaritime.fr ; yvan.gourmelon@supmaritime.fr ; clement.guinebretiere-piriou@supmaritime.fr ; valentin.guinebretiere-piriou@supmaritime.fr ; guirec.le-guern@supmaritime.fr ; juliette.lebrun@supmaritime.fr ; leopold.leclere@supmaritime.fr ; raphael.liberge@supmaritime.fr ; leonardo.maule@supmaritime.fr ; alexandre.menes@supmaritime.fr ; sacha.monchatre@supmaritime.fr ; baptiste.peixoto@supmaritime.fr ; aymeric.rivier@supmaritime.fr ; clément.roux@supmaritime.fr ; julie.thiry@supmaritime.fr ; paul-henri.willems@supmaritime.fr";
+
+ ?>
