@@ -17,7 +17,7 @@ function prepare_email($str){
   $str = explode(";",$str);
   $str = array_map('mise_en_forme', $str);
   $str = array_map('supp_erreur', $str);
-  $str = array_map('check_domain', $str);
+//  $str = array_map('check_domain', $str);
   $str = array_filter($str);
   return $str;
 }
