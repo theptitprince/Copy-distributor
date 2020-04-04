@@ -16,7 +16,7 @@ if(isset($_SESSION['flash'])){
   <option value="test_leonardo">Test Leonardo</option>
 </select>
   <br/>
-<p><b>NB</b>: Seul les adresse email @supmaritime.fr sont valables.<br/>
+<p><b>NB</b>: Seul les adresse email @sdomain.tld sont valables.<br/>
   <b>NB2</b>: Séparez les emails par un point virgurl <b>;</b></p>
 
   <input type="submit" value="Continuer" />
