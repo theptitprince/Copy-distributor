@@ -38,7 +38,7 @@ function supp_erreur($str){
 
 function check_domain($str){
   $domain = explode('@', $str);
-  if($domain['1'] == "supmaritime.fr"){
+  if($domain['1'] == "domain.tld"){
     return $str;
   }else{
     return '';
